@@ -1,5 +1,5 @@
-- **Name: Ekramul Alam
-- **Roll: 2007071
+- Name: Ekramul Alam
+- Roll: 2007071
 
 # Coin Toss Game 🎲
 

@@ -1,3 +1,6 @@
+Name: Ekramul Alam
+Roll: 2007071
+
 # Coin Toss Game 🎲
 
 A simple and interactive **Coin Toss Game** built using SwiftUI. The app simulates the flipping of a coin, displaying the result as either "Heads" or "Tails." The game includes a smooth animation during the toss and a clean, user-friendly interface.
